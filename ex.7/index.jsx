@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import ClassComponent from './classComponent'
 ReactDOM.render(
-  <ClassComponent label='Contato' initialValue={10} />
+  <ClassComponent value='Componente Classe'/>
 , document.getElementById('app'))
 
 
